@@ -1,0 +1,18 @@
+{
+  "ApiUrl": "https://api.trakt.tv",
+  "DeviceCode": "",
+  "ClientId": "",
+  "ClientSecret": "",
+  "AccessToken": "",
+  "RefreshToken": "",
+  "SonarrRootFolderPath": "",
+  "SonarrProfileId": 0,
+  "SonarrApiSeries": "",
+  "SonarrApiKey": "",
+  "TraktUserInfo": [
+    {
+      "user": "",
+      "listName": ""
+    }
+  ]
+}
